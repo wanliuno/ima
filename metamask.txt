@@ -1,0 +1,80 @@
+walnut thrive skull barely clip mammal ketchup curtain hard shield ivory gloom
+
+
+
+
+Available Accounts
+==================
+(0) 0xA02ce82Bf874CC403338267CCDd46D2DEc9A6B88 (100 ETH)
+(1) 0xeBAEAc13B217b8bEBdf427E17CF6f30CF8c9476F (100 ETH)
+(2) 0x8b531cbe79d1F4acA97b2dA4051307AE0CE966D3 (100 ETH)
+(3) 0x5fD4816b53d8E7654365D5E64D5B9A48861e050d (100 ETH)
+(4) 0x27F7400228f43f9f19BEbB58BED1b0D9AEf54e24 (100 ETH)
+(5) 0x35200EB5087dCB0a1Eea791CA1e9d1DeB8Ce2048 (100 ETH)
+(6) 0x63c8Ed6280a7B30597a76a943C4e1dBB45487fA1 (100 ETH)
+(7) 0xADC9D76865Aa613e01F360C0b995B6CB787C7641 (100 ETH)
+(8) 0x45b61358305b871fbBb0CC4D2E336641d5bA5D8d (100 ETH)
+(9) 0x515E4C76D883Aec3C8FdEe18D6B6B7aF531EE00e (100 ETH)
+
+Private Keys
+==================
+(0) 0xce1b900f586b4af16be82231d6fa1581ed58df75928db1c482e8cd897bb2aaa7
+(1) 0xe591d2e8397c7c221c3ea8f00216d4ee02b34276cbc816463b56b950c648147b
+(2) 0xdafa71a6d5cf9a3a0b450ceb4e4de20a2c55a225284fa65f47bf1de3cc28aaef
+(3) 0x283ae6653d25216194183ab59139b4231e06493e535ddd0ded8a604a16f3f107
+(4) 0x2998e5f5823e18b73c2eebb105a6afe3d7af55fdfd7599cc27a0552474c9fa15
+(5) 0x182307bf6b174469b7094c3fa42232f222ca28b4907ac9adbcb8eeada141de9f
+(6) 0xfba42ac6ff4dc8e699f7ab5498c3646c23a35a86c31d5454e2860f890cb1f5f8
+(7) 0xc7141459415354dd3781938f641f494b0a0058be2c80e0531429b89515b552c0
+(8) 0xad156f782c029babc375246a21fd8d70d933b9f229285da92993502864463ea5
+(9) 0xd667a8be88bb80c433635bccb1c5ed891dc94ed3866d110d5b6e260e0df73691
+
+HD Wallet
+==================
+Mnemonic:      demand post tide tuna core notice piano crucial alert enroll adjust curtain
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+
+
+Listening on 127.0.0.1:8545
+eth_accounts
+eth_accounts
+net_version
+net_version
+eth_sendTransaction
+
+  Transaction: 0xb1ef225172c58e46b588aff11271aac6697fe275a59750976f8b6cc8ed599090
+  Contract created: 0xe368285a7df6623a659c08caf3abc2290ac85c0d
+  Gas usage: 277462
+  Block Number: 1
+  Block Time: Wed Sep 02 2020 07:55:57 GMT+0000 (Coordinated Universal Time)
+
+eth_newBlockFilter
+eth_getFilterChanges
+eth_getTransactionReceipt
+eth_getCode
+eth_uninstallFilter
+eth_sendTransaction
+
+  Transaction: 0xf1dd7e54682ffa60a742bbf034dd4125b8d702b1b098647a035d8e032d903e9a
+  Gas usage: 42008
+  Block Number: 2
+  Block Time: Wed Sep 02 2020 07:55:57 GMT+0000 (Coordinated Universal Time)
+
+eth_getTransactionReceipt
+eth_accounts
+eth_accounts\/////////////////////////////////////////////////////
+
+  Transaction: 0x8e6595fa248807673fe01a2518f44504c1ebc61e47fef51ac26cbd43f1afd210
+  Contract created: 0x5229f14ee6620824ca74ae0bf57ef2045269023e
+  Gas usage: 2733642
+  Block Number: 15
+  Block Time: Wed Sep 02 2020 08:51:51 GMT+0000 (Coordinated Universal Time)
